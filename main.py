@@ -4,7 +4,7 @@ def get(event, context):
 <head>
 </head>
 <body>
-<h1>Test2</h1>
+<h1>Test3</h1>
 </body>
 </html>
 '''[1:-1]
